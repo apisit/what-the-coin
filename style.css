@@ -1,0 +1,14 @@
+.wtc_tooltip {
+  visibility: hidden;
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: #efefef;
+  color:#007BFF;
+  padding: 10px;
+  font-weight: 700;
+  border-radius: 6px;
+  font-family: Helvetica;
+  font-size: 16px;
+  line-height: 16px;
+}
